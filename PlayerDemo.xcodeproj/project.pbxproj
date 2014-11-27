@@ -58,7 +58,7 @@
 		9FD0906917A1286600BD09D2 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		9FD0906B17A1288400BD09D2 /* libbz2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libbz2.dylib; path = usr/lib/libbz2.dylib; sourceTree = SDKROOT; };
 		9FD0906D17A1289700BD09D2 /* libiconv.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libiconv.dylib; path = usr/lib/libiconv.dylib; sourceTree = SDKROOT; };
-		9FD0907517A20F9400BD09D2 /* libSDL.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libSDL.a; path = "../../../../../../../Library/Developer/Xcode/DerivedData/ppbox-dsdsjxqwwyyomdeytohsqhntgunl/Build/Products/Debug-iphoneos/libSDL.a"; sourceTree = "<group>"; };
+		9FD0907517A20F9400BD09D2 /* libSDL.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libSDL.a; path = "../../../../../../../Library/Developer/Xcode/DerivedData/just-dsdsjxqwwyyomdeytohsqhntgunl/Build/Products/Debug-iphoneos/libSDL.a"; sourceTree = "<group>"; };
 		9FD0907717A2110500BD09D2 /* MainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainView.m; sourceTree = "<group>"; };
 		9FD0907917A2110E00BD09D2 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		9FD0909717A21C4E00BD09D2 /* ffplay.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ffplay.c; sourceTree = "<group>"; };
@@ -322,7 +322,7 @@
 				INFOPLIST_FILE = "PlayerDemo/PlayerDemo-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"$(SRCROOT)/../../../../../../../Library/Developer/Xcode/DerivedData/ppbox-dsdsjxqwwyyomdeytohsqhntgunl/Build/Products/Debug-iphoneos\"",
+					"\"$(SRCROOT)/../../../../../../../Library/Developer/Xcode/DerivedData/just-dsdsjxqwwyyomdeytohsqhntgunl/Build/Products/Debug-iphoneos\"",
 					"\"$(SRCROOT)/../../../../../platform/ios-armv7\"",
 					"\"$(SRCROOT)/../../../../ios-armv7.ipad/thirdparty/ffmpeg-1.2/release/static/multi/lib\"",
 				);
@@ -345,7 +345,7 @@
 				INFOPLIST_FILE = "PlayerDemo/PlayerDemo-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"$(SRCROOT)/../../../../../../../Library/Developer/Xcode/DerivedData/ppbox-dsdsjxqwwyyomdeytohsqhntgunl/Build/Products/Debug-iphoneos\"",
+					"\"$(SRCROOT)/../../../../../../../Library/Developer/Xcode/DerivedData/just-dsdsjxqwwyyomdeytohsqhntgunl/Build/Products/Debug-iphoneos\"",
 					"\"$(SRCROOT)/../../../../../platform/ios-armv7\"",
 					"\"$(SRCROOT)/../../../../ios-armv7.ipad/thirdparty/ffmpeg-1.2/release/static/multi/lib\"",
 				);
